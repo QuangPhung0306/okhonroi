@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "97959541055",
+    "firebase_url": "https://tuktuk-f23c0.firebaseio.com",
+    "project_id": "tuktuk-f23c0",
+    "storage_bucket": "tuktuk-f23c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959541055:android:0c442f73dc2bd42a",
+        "android_client_info": {
+          "package_name": "com.companyname.drivertuktuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31uMwXghe3KEeSoiokouzu4qokjyguqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959541055:android:31139d47fbb353a7",
+        "android_client_info": {
+          "package_name": "com.companyname.tuktuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31uMwXghe3KEeSoiokouzu4qokjyguqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959541055:android:2fd9dabafb38d5e326bb8a",
+        "android_client_info": {
+          "package_name": "com.riskmgnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959541055-jqeitl852570ub2cgmve8go8arr698gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riskmgnt",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31uMwXghe3KEeSoiokouzu4qokjyguqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97959541055-4611qsbttc4hkop7eiqeivpi9emasgee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

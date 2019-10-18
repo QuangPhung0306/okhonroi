@@ -1,0 +1,12 @@
+{
+    "API_PATH": "http://fuji.akb.vn:8082/",
+    "AUTH": "api/v1/auth",
+    "LOGOUT": "api/v1/logout",
+    "GET_ALL_DATA": "api/v1/recentdata/",
+    "GET_PICKER_DATA": "api/v1/mst/all/",
+    "PRESS_LIKE": "api/v1/indicatedmatterview/likebutton",
+    "RESISTER_NEW_ITEM": "api/v1/indicatedmatter/upload",
+    "GET_GROUP_INFOR": "api/v1/mst/groups/",
+    "GET_INCATE": "api/v1/indicatedmatter?"
+}
+  

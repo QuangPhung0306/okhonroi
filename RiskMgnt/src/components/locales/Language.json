@@ -1,0 +1,66 @@
+{
+  //CustomDrawer
+  "HOME": "ホーム",
+  "NOTIFICATION": "通知",
+  "NEW_ITEM": "新項目",
+  "SETTING": "設定",
+  "HELP": "ヘルプ",
+  "LOGOUT": "ログアウト",
+
+  //InforUserScreen
+  "USERNAME" :"ユーザ名 ",
+  "NAMEGROUP" :"企業名 ",
+  "MAILADRESS": "ユーザメール ",
+  "NAMEENTERPRISE":"グループ名",
+
+  //LoginScreen
+  "TITLE_LOGIN": "ユーザ認証を行います",
+  "USEPASS_LOGIN": "ユーザID、パスワードを",
+  "PLEASE_LOGIN" :"入力してください",
+  "ERR_WRONG_INPUT":"ユーザIDまたはパスワードが間違いました。",
+  "ERR_DISC":"ログインエラーです。もう一度お試しください",
+  "ERR_NOT_INPUT":"入力しません。",
+  "USER_ID": "ユーザID :",
+  "PASS": "パスワード :",
+  "CONFIRM" : "認証",
+
+  "ERR_WRONG_INPUT":"Sai tên tài khoản hoặc mật khẩu!",
+  "ERR_DISC":"Lỗi đăng nhập, vui lòng thử lại sau!",
+  "ERR_NOT_INPUT":"chua nhap dau vao",
+
+  //CameraPageScreen
+  "CAMERAPAGE_TITE":"Permission to use camera",
+  "CAMERAPAGE_MESSAGE":"We need your permission to use your camera",
+  "CAMERA_POSITIVE":"Ok",
+  "CAMERA_NEGATIVE":"Cancel",
+  "AUDIO_TITE":"Permission to use audio recording",
+  "AUDIO_MESSAGE":"We need your permission to use your audio",
+
+  //HomeScreen
+  "HOME_DAY": "今日の安全ポイント !",
+  "BEFORE_SEARCH": "最近登録された危険個所",
+  "CALENDAR" :"登録日",
+  "START" : "開始",
+  "END": "終了",
+  "SAVE": "検索",
+  "AFTER_SEARCH": "検索された危険個所",
+
+  //NewItemScreen
+  "DELETE_IMAGE": "削除",
+  "EDIT_IMAGE": "編集",
+  "CANCEL": "キャンセル",
+  "SHOW_IMAGE": "選択された画像: ",
+  "LOCATION": "場所",
+  "COMMENT": "コメント",
+  "RISK": "リスク",
+  "TAG": "タグ",
+  "ADD_NEW": "登録",
+  "PEOPLE": "是正担当",
+  "PLEASE_CHOOSE_IMAGE":"画像を選択して下さい。",
+
+  //PickImageScreen
+  "WARNING_MAX_IMAGE": "写真の登録は最大3枚までです。変更する場合は登録されている写真を削除して下さい。",
+  "PLEASE_SELECT_IMAGE" : "追加する画像を選択してください",
+  "SELECT": "選択",
+  "NO_IMAGE_CHOOSE": "画像を選択して下さい。"
+}
